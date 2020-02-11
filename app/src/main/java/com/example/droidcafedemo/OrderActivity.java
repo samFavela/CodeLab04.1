@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.widget.TextView;
 
 public class OrderActivity extends AppCompatActivity {
-    TextView order_textview;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
